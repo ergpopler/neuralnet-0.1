@@ -1,3 +1,3 @@
 this neural network is basic, it will read a movie review and give an output (closer to 0 is bad, and closer 1 is better).
 
-you can manually put in a movie review into "test.txt"
+you can manually put in a movie review into "review.txt"
